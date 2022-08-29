@@ -1,0 +1,15 @@
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\bin\Debug\net6.0\FasionBoutique.exe
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\bin\Debug\net6.0\FasionBoutique.deps.json
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\bin\Debug\net6.0\FasionBoutique.runtimeconfig.json
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\bin\Debug\net6.0\FasionBoutique.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\bin\Debug\net6.0\FasionBoutique.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.csproj.AssemblyReference.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.AssemblyInfoInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.AssemblyInfo.cs
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.csproj.CoreCompileInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\refint\FasionBoutique.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\FasionBoutique.genruntimeconfig.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FasionBoutique\obj\Debug\net6.0\ref\FasionBoutique.dll

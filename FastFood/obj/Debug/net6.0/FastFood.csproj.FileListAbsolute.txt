@@ -1,0 +1,15 @@
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\bin\Debug\net6.0\FastFood.exe
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\bin\Debug\net6.0\FastFood.deps.json
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\bin\Debug\net6.0\FastFood.runtimeconfig.json
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\bin\Debug\net6.0\FastFood.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\bin\Debug\net6.0\FastFood.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.csproj.AssemblyReference.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfoInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfo.cs
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.csproj.CoreCompileInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\refint\FastFood.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\FastFood.genruntimeconfig.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\FastFood\obj\Debug\net6.0\ref\FastFood.dll

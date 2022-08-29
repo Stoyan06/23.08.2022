@@ -1,0 +1,15 @@
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.exe
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.deps.json
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.runtimeconfig.json
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.csproj.AssemblyReference.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.AssemblyInfoInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.AssemblyInfo.cs
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\refint\BasicQueueOperations.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.genruntimeconfig.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicQueueOperations\obj\Debug\net6.0\ref\BasicQueueOperations.dll

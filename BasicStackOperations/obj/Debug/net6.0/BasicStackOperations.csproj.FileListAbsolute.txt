@@ -1,0 +1,15 @@
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.exe
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.deps.json
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.runtimeconfig.json
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.csproj.AssemblyReference.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfoInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfo.cs
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\refint\BasicStackOperations.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.genruntimeconfig.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\BasicStackOperations\obj\Debug\net6.0\ref\BasicStackOperations.dll

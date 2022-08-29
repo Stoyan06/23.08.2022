@@ -1,0 +1,15 @@
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.exe
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.deps.json
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.runtimeconfig.json
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\bin\Debug\net6.0\MaximumAndMinimumElement.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.csproj.AssemblyReference.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.AssemblyInfo.cs
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\refint\MaximumAndMinimumElement.dll
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.pdb
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\MaximumAndMinimumElement.genruntimeconfig.cache
+D:\Давид обучение\23.08.2022\Homework\Solution\MaximumAndMinimumElement\obj\Debug\net6.0\ref\MaximumAndMinimumElement.dll
